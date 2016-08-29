@@ -17,7 +17,6 @@ namespace ColorPrint
 
             Console.WriteLine("Свойства объекта " + house.GetType().Name + ":");
             print.ColorPrint(house);
-
         }
     }
 }
